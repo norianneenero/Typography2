@@ -1,9 +1,42 @@
 h1 {
- color: red;
+ color: #EDB12D;
  font-family: Kollektif, sans-serif;
  font-size: 170px;
  text-align: center;
  margin: 40px;
 }
 
+h2 {
+  color: #EDB12D;
+  font-family: Kollektif, sans-serif;
+  font-size: 145px;
+  text-align: center;
+}
 
+h3 {
+  color: #EDB12D;
+  font-family: Kollektif, sans-serif;
+  font-size: 90px;
+  text-align: center;
+}
+
+h4 {
+  color: #EDB12D;
+  font-family: Kollektif, sans-serif;
+  font-size: 85px;
+  text-align: center;
+}
+
+h5 {
+  color: #EDB12D;
+  font-family: Kollektif, sans-serif;
+  font-size: 80px;
+  text-align: center;
+}
+
+h6 {
+  color: #EDB12D;
+  font-family: Kollektif, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
