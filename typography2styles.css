@@ -1,42 +1,42 @@
-h1 {
- font-family: 'Kollektif', sans-serif;
- font-size: 170px;
- color: #EDB12D;
- text-align: center;
- margin: 40px;
-}
-
-h2 {
-  color: #EDB12D;
-  font-family: Kollektif, sans-serif;
-  font-size: 145px;
-  text-align: center;
-}
-
-h3 {
-  color: #EDB12D;
-  font-family: Kollektif, sans-serif;
-  font-size: 90px;
-  text-align: center;
-}
-
-h4 {
-  color: #EDB12D;
-  font-family: Kollektif, sans-serif;
-  font-size: 85px;
-  text-align: center;
-}
-
-h5 {
-  color: #EDB12D;
-  font-family: Kollektif, sans-serif;
-  font-size: 80px;
-  text-align: center;
-}
-
-h6 {
-  color: #EDB12D;
-  font-family: Kollektif, sans-serif;
-  font-size: 20px;
-  text-align: bottom;
-}
+  h1 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 170px;
+       text-align: center;
+     }
+      h2 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 71.53px;
+       text-align: center;
+     }
+      h3 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 40.26px;
+       text-align: center;
+     }
+      h4 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 34.88px;
+       text-align: center;
+     }
+      h5 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 20.84px;
+       text-align: center;
+     }
+      h6 {
+       color: #EDB12D;
+       font-family: Kollektif, sans-serif;
+       font-size: 18.82px;
+       text-align: center;
+     }
+     img {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+     }
+    </style>
