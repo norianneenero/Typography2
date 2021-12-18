@@ -2,4 +2,6 @@
 
 Typography Design
 
-Documentation
+Link to website:
+
+Documentation PDF
