@@ -5,7 +5,7 @@
 <head>
 <style>
 {
-  background-image: url(3.png);
+  background-image: EneroNO_typography1grid.png;
   background position: center bottom;
   background-repeat: no-repeat;
   padding: 25
