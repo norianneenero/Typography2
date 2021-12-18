@@ -11,6 +11,16 @@
   background-color: #2196F3;
   padding: 10px;
 }
+  __
+._3 {
+  background-image: url("3.png");
+  position: absolute;
+  left: 214px;
+  top: 831px;
+  width: 435px;
+  height: 546px;
+  z-index: 7;
+}_
 
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -41,4 +51,3 @@
 
 </body>
 </html>
-
