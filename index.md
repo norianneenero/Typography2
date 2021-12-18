@@ -6,12 +6,9 @@
 <style>
 {
   background-image: url(3.png);
-  background position: absolute;
-  left: 214px;
-  top: 831px;
-  width: 435px;
-  height: 546px;
-  z-index: 7;
+  background position: center bottom;
+  background-repeat: no-repeat;
+  padding: 25
   }
   </style>
 </head>
