@@ -50,6 +50,11 @@
   text-align: center;
 }
 .woman-image {
+  background-image: url('images/woman.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: 10%;
   width: 500px;
   align-self: center;
 }
