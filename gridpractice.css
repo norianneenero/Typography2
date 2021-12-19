@@ -55,3 +55,11 @@
   font-color: #EDB12D;
   text-align: center;
 }
+.woman-image {
+  background-image: url("images/woman.png");
+  background-color: transparent;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
