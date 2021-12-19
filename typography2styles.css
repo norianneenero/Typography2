@@ -39,6 +39,8 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-.wrapper{
-  display:grid;
-  grid-template-columns: 70% 30%;
+.fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
+}
