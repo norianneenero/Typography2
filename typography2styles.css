@@ -34,13 +34,10 @@ h6 {
   font-size: 10px;
   text-align: center;
 }
-.div-wrapper {
-    position: fixed;
-    height: 0;
-    width: 100%;
-}
-.div-wrapper img {
-    display: table;
-    position: static;
-    margin: auto;
+img {
+  position: relative;
+  height: 0;
+  width: 100%;
+  margin-top: -100px;
+  clear:both;
 }
