@@ -35,12 +35,12 @@ h6 {
   margin-top: 10px;
 }
 .div-wrapper {
-    position: relative;
-    height: 300px;
-    width: 300px;
+    position: fixed;
+    height: 0;
+    width: 100%;
 }
 .div-wrapper img {
-    position: absolute;
-    left: 0%;
-    bottom: 100%;
+    display: table;
+    position: relative;
+    margin: auto;
 }
