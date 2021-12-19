@@ -4,7 +4,7 @@
   padding: 10px;
 }
 .grid-item1 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 180px;
   font-family: Kollektif;
@@ -12,11 +12,11 @@
   text-align: center;
 }
 .grid-item2 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
 }
 .grid-item3 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 95px;
   font-family: Kollektif;
@@ -24,7 +24,7 @@
   text-align: center;
 }
 .grid-item4 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 45px;
   font-family: Kollektif;
@@ -32,7 +32,7 @@
   text-align: center;;
 }
 .grid-item5 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 34.88px;
   font-family: Kollektif;
@@ -40,7 +40,7 @@
   text-align: center;
 }
 .grid-item6 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 19.84px;
   font-family: Kollektif;
@@ -48,7 +48,7 @@
   text-align: center;
 }
 .grid-item7 {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
   padding: 30px;
   font-size: 15px;
   font-family: Kollektif;
