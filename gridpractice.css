@@ -8,7 +8,7 @@
   padding: 30px;
   font-size: 180px;
   font-family: Kollektif;
-  color: #EDB12D;
+  color: black;
   text-align: center;
 }
 .grid-item2 {
@@ -20,7 +20,7 @@
   padding: 30px;
   font-size: 95px;
   font-family: Kollektif;
-  color: #EDB12D;
+  color: #e6ac00;
   text-align: center;
 }
 .grid-item4 {
@@ -28,7 +28,7 @@
   padding: 30px;
   font-size: 45px;
   font-family: Kollektif;
-  color: #EDB12D;
+  color: #e6ac00;
   text-align: center;;
 }
 .grid-item5 {
@@ -36,7 +36,7 @@
   padding: 30px;
   font-size: 34.88px;
   font-family: Kollektif;
-  color: #EDB12D;
+  color: #e6ac00;
   text-align: center;
 }
 .grid-item6 {
@@ -44,7 +44,7 @@
   padding: 30px;
   font-size: 19.84px;
   font-family: Kollektif;
-  color: #EDB12D;
+  color: #e6ac00;
   text-align: center;
 }
 .grid-item7 {
@@ -52,6 +52,6 @@
   padding: 30px;
   font-size: 15px;
   font-family: Kollektif;
-  color: #EDB12D;
+  font-color: #EDB12D;
   text-align: center;
 }
