@@ -1,10 +1,10 @@
 .grid-container {
   display: line-grid;
   grid-template-columns: auto auto auto;
+  opacity: 0.0;
   padding: 10px;
 }
 .grid-item1 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 180px;
   font-family: Kollektif;
@@ -16,7 +16,6 @@
   padding: 30px;
 }
 .grid-item3 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 95px;
   font-family: Kollektif;
@@ -24,7 +23,6 @@
   text-align: center;
 }
 .grid-item4 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 45px;
   font-family: Kollektif;
@@ -32,7 +30,6 @@
   text-align: center;;
 }
 .grid-item5 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 34.88px;
   font-family: Kollektif;
@@ -40,7 +37,6 @@
   text-align: center;
 }
 .grid-item6 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 19.84px;
   font-family: Kollektif;
@@ -48,7 +44,6 @@
   text-align: center;
 }
 .grid-item7 {
-  opacity: 0.0;
   padding: 30px;
   font-size: 15px;
   font-family: Kollektif;
