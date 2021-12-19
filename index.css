@@ -49,7 +49,7 @@
   font-color: #EDB12D;
   text-align: center;
 }
-.woman-image {
+img {
   background-image: url('images/woman.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
