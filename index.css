@@ -49,8 +49,14 @@
   color: #e6ac00;
   text-align: center;
 }
-.center {
-  width: 400px;
-  margin-left: auto;
-  margin-right: auto;
+.div-wrapper {
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.div-wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
