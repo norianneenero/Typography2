@@ -42,19 +42,7 @@
   color: #e6ac00;
   text-align: center;
 }
-.grid-item7 {
-  padding: 30px;
-  font-size: 15px;
-  font-family: Kollektif;
-  font-color: #EDB12D;
-  text-align: center;
-}
-img {
-  background-image: url('https://github.com/norianneenero/Typography2/blob/0370fbca6b5481a64a2b20d69c7c16028caf4106/images/woman.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom;
-  background-size: 10%;
-  width: 500px;
-  align-self: center;
+.grid-item7 img {
+  width: 100%;
+  height: auto;
 }
