@@ -55,3 +55,10 @@
   font-color: #EDB12D;
   text-align: center;
 }
+img {
+  position: relative;
+  height: 0;
+  width: 100%;
+  margin-top: -100px;
+  clear:both;
+}
