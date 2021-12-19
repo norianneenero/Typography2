@@ -55,22 +55,3 @@
   font-color: #EDB12D;
   text-align: center;
 }
-.woman-image {
-  background-image: url("images/footer.png");
-  background-color: #cccccc;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.footer-text {
-  size: 10px;
-  text-align: center;
-  position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
