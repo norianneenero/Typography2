@@ -1,7 +1,6 @@
 .grid-container {
   display: line-grid;
   grid-template-columns: auto auto auto;
-  opacity: 0.0;
   padding: 10px;
 }
 .grid-item1 {
