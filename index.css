@@ -5,7 +5,7 @@
 }
 .grid-item1 {
   padding: 30px;
-  font-size: 400px;
+  font-size: 250px;
   font-family: Kollektif;
   color: black;
   text-align: center;
@@ -23,28 +23,28 @@
 }
 .grid-item4 {
   padding: 30px;
-  font-size: 170px;
+  font-size: 125px;
   font-family: Kollektif;
   color: #e6ac00;
   text-align: center;;
 }
 .grid-item5 {
   padding: 30px;
-  font-size: 155px;
+  font-size: 100px;
   font-family: Kollektif;
   color: #e6ac00;
   text-align: center;
 }
 .grid-item6 {
   padding: 30px;
-  font-size: 135px;
+  font-size: 95px;
   font-family: Kollektif;
   color: #e6ac00;
   text-align: center;
 }
 .grid-item7 {
   padding: 30px;
-  font-size: 100px;
+  font-size: 55px;
   font-family: Kollektif;
   color: #e6ac00;
   text-align: center;
