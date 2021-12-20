@@ -17,48 +17,40 @@ body {
   color: black;
   text-align: center;
 }
-.grid-item2 {
-  background-color: transparent;
-  padding: 100px;
-}
 .grid-item3 {
   padding: 30px;
   font-size: 275px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item4 {
-  padding: 30px;
+  padding: 20px;
   font-size: 155px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;;
+  text-align: left;
 }
 .grid-item5 {
-  padding: 30px;
+  padding: 20px;
   font-size: 75px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item6 {
-  padding: 70px;
+  padding: 20px;
   font-size: 50px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item7 {
-  background-color: transparent;
-  padding: 30px;
-}
-.grid-item8 {
   padding: 30px;
   font-size: 25px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 
 /* visual elements */
