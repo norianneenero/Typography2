@@ -15,45 +15,33 @@
   font-size: 255px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: left;
+  text-align: center;
 }
 .grid-item3 {
   padding: 20px;
   font-size: 155px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: left;
+  text-align: center;
 }
 .grid-item4 {
   padding: 20px;
   font-size: 75px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: left;
+  text-align: center;
 }
 .grid-item5 {
   padding: 20px;
   font-size: 50px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: left;
+  text-align: center;
 }
 .grid-item6 {
   padding: 30px;
   font-size: 25px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: left;
-}
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-.hero-image {
-  background-image: url("images/BREATHE_WEBSITE (1).png");
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  text-align: center;
 }
