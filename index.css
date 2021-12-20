@@ -1,3 +1,4 @@
+/* grids for texts */
 .grid-container {
   display: line-grid;
   grid-template-columns: auto auto auto;
@@ -49,3 +50,8 @@
   color: #e6ac00;
   text-align: center;
 }
+/* visual elements */
+#woman {
+} 
+#half circle {
+  background: url(halfcirle.png);
