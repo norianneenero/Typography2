@@ -1,4 +1,5 @@
 .grid-container {
+  background-color: black;
   display: line grid;
   grid-template-columns: auto auto auto;
   padding: 30px;
@@ -7,7 +8,7 @@
   padding: 30px;
   font-size: 355px;
   font-family: Kollektif;
-  color: black;
+  color: white;
   text-align: center;
 }
 .grid-item2 {
@@ -55,7 +56,4 @@
     text-align: center;
     position: absolute;
     bottom: 0px;
-}
-.image_block img    {
-/*  nothing specific  */
 }
