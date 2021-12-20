@@ -2,7 +2,7 @@
 .grid-container {
   display: line grid;
   grid-template-columns: auto auto auto;
-  background-image: url(woman.jpg);
+  background-image: url("woman.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -56,16 +56,3 @@
   color: #e6ac00;
   text-align: center;
 }
-img { 
-  background-image: url('images/woman.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom center; 
-}
-img2 { 
-  background-image: url('images/halfcircle.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: bottom center; 
-}
-
