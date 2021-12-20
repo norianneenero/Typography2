@@ -64,8 +64,8 @@
 /* visual elements */
 .center {
   background-image: url("images/woman-circles.png");
-  background-color: transaparent;
-  height: 500px;
+  width: auto;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
