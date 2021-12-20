@@ -54,13 +54,9 @@
   color: #e6ac00;
   text-align: center;
 }
-.div-wrapper {
-    position: relative;
+.wrapper {
     height: 300px;
     width: 300px;
-}
-.div-wrapper img {
-    position: absolute;
-    left: 0;
-    bottom: 0;
+    display: flex;
+    align-items: flex-end;
 }
