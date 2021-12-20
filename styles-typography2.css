@@ -54,12 +54,8 @@
   color: #e6ac00;
   text-align: center;
 }
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
 .hero-image {
-  background-image: url("images/woman-circles.jpg");
+  background-image: url("images/woman-circles.png");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
