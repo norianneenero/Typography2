@@ -54,7 +54,9 @@
   color: #e6ac00;
   text-align: center;
 }
-.bg-image {
-  background-image: url(images/woman.png);
-  background-poisiton: bottom center;
-  {
+body { 
+  background-image: url('images/woman.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom center; 
+}
