@@ -2,7 +2,7 @@
 .grid-container {
   display: line grid;
   grid-template-columns: auto auto auto;
-  background-image: url("woman.jpg");
+  background-image: url("images/woman.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
