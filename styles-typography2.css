@@ -1,4 +1,4 @@
- body {
+body {
    margin: 0;
    font-family: Arial, Helvetica, sans-serif;
    background-color: #FFFBF2;
@@ -62,8 +62,8 @@
 }
 
 /* visual elements */
-.center {
-  background-image: url("images/woman-circles.png");
+img {
+  image: url("images/woman-circles.png");
   width: auto;
   height: auto;
   background-position: center;
