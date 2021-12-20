@@ -1,5 +1,4 @@
 .grid-container {
-  background-color: #FFFBF2;
   display: line grid;
   grid-template-columns: auto auto auto;
   padding: 30px;
