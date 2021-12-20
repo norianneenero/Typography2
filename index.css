@@ -55,9 +55,6 @@
   text-align: center;
 }
 img {
-   width:100px; /*width of your image*/
-   height:100px; /*height of your image*/
-   background-image:url('woman.png');
-   margin:0; /* If you want no margin */
-   padding:0; /*if your want to padding */
+   width: 400px;
+   height: 500px; 
 }
