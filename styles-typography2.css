@@ -45,3 +45,17 @@
   color: #e6ac00;
   text-align: center;
 }
+.image_block    {
+    width: 175px;
+    height: 175px;
+    position: relative;
+}
+.image_block a  {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+}
+.image_block img    {
+/*  nothing specific  */
+}
