@@ -15,44 +15,44 @@
   font-size: 255px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item3 {
   padding: 20px;
   font-size: 155px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item4 {
   padding: 20px;
   font-size: 75px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item5 {
   padding: 20px;
   font-size: 50px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 .grid-item6 {
   padding: 30px;
   font-size: 25px;
   font-family: Kollektif;
   color: #e6ac00;
-  text-align: center;
+  text-align: left;
 }
 /* visual elements */
 img {
-  image: url("images/woman-circles.png");
+  background-image: url("images/woman-circles.png");
   width: auto;
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   position: relative;
   top: 0;
   left: 0;
