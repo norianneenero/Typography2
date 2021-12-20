@@ -1,8 +1,10 @@
 /* grids for texts */
 .grid-container {
-  display: line-grid;
+  display: line grid;
   grid-template-columns: auto auto auto;
-  padding: 10px;
+  background-image: url(woman.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .grid-item1 {
   padding: 30px;
