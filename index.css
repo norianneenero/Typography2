@@ -52,6 +52,10 @@
 }
 /* visual elements */
 #woman {
+  width: 100;
+  width: 100;
+  position: relative;
+  margin: 0 auto;
 } 
 #half circle {
   background: url(halfcirle.png);
