@@ -1,5 +1,5 @@
 body { 
-background-color: #FFFBF2;
+background-color: #20344D;
 }
 .grid-container {
   display: line grid;
@@ -10,7 +10,7 @@ background-color: #FFFBF2;
   padding: 30px;
   font-size: 320px;
   font-family: Kollektif;
-  color: #20344D;
+  color: white;
   text-align: center;
 }
 .grid-item2 {
