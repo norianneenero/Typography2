@@ -44,6 +44,10 @@
   text-align: center;
 }
 .grid-item7 {
+  background-color: transparent;
+  padding: 30px;
+}
+.grid-item8 {
   padding: 30px;
   font-size: 20px;
   font-family: Kollektif;
